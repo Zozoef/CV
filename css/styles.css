@@ -2,14 +2,12 @@
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@700&display=swap');
-</style>
+
 
 /* Styles for the body */
 
 body {
-	font-family: Oxygen, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family:"Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #fff;
 	background-color: #f8f8fc;
 }
@@ -17,15 +15,15 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #C1D5F0;
+    background-color: #72C1E9;
 }
 
 .resume-main {
-	background-color: #9999;
+	background-color: #8CDBF2;
 }
 
 .resume-aside {
-	background-color: #555;
+	background-color: #7FEEB2;
 }
 
 /* Styles for lists in the document */
@@ -55,6 +53,9 @@ body {
 
 .colorblack {
 	color: BLACK;
+}
+.colorwhite {
+	color: white;
 }
 
 
